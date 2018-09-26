@@ -1,2 +1,3 @@
 ﻿  ConsoleApplication3.cpp
-d:\dex\studentcpp\lab01\consoleapplication3\consoleapplication3\consoleapplication3.cpp(36): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+d:\dex\studentcpp\lab01\consoleapplication3\consoleapplication3\consoleapplication3.cpp(6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  ConsoleApplication3.vcxproj -> D:\Dex\StudentCpp\Lab01\ConsoleApplication3\Debug\ConsoleApplication3.exe
