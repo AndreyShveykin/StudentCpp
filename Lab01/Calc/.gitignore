@@ -1,23 +1,32 @@
-Debug/
-Calc/
-Task1/Debug/
-Task1/pch.cpp
-Task1/pch.h
-Task1/Task1.vcxproj
-Task1/Task1.vcxproj.filters
-Task1/Task1.vcxproj.user
-Task2/pch.cpp
-Task2/pch.h
-Task2/Task2.vcxproj
-Task2/Task2.vcxproj.filters
-Task2/Task2.vcxproj.user
-Task3/pch.cpp
-Task3/pch.h
-Task3/Task3.vcxproj
-Task3/Task3.vcxproj.filters
-Task3/Task3.vcxproj.user
-Task4/pch.cpp
-Task4/pch.h
-Task4/Task4.vcxproj
-Task4/Task4.vcxproj.filters
-Task4/Task4.vcxproj.user
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
