@@ -1,6 +1,0 @@
-﻿  ConsoleApplication2.cpp
-d:\dex\studentcpp\lab01\consoleapplication2\consoleapplication2\consoleapplication2.cpp(44): warning C4244: =: преобразование "double" в "int", возможна потеря данных
-d:\dex\studentcpp\lab01\consoleapplication2\consoleapplication2\consoleapplication2.cpp(45): warning C4244: =: преобразование "double" в "int", возможна потеря данных
-d:\dex\studentcpp\lab01\consoleapplication2\consoleapplication2\consoleapplication2.cpp(53): warning C4244: =: преобразование "double" в "int", возможна потеря данных
-d:\dex\studentcpp\lab01\consoleapplication2\consoleapplication2\consoleapplication2.cpp(54): warning C4244: =: преобразование "double" в "int", возможна потеря данных
-  ConsoleApplication2.vcxproj -> D:\Dex\StudentCpp\Lab01\ConsoleApplication2\Debug\ConsoleApplication2.exe
